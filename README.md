@@ -1,2 +1,2 @@
 # Lightsense
-Lamp turns on when light is to low
+Read data (analog / digital) from sensor.
