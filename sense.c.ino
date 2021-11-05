@@ -24,9 +24,9 @@ void loop()
 
   // Print
   Serial.print("Analog:   ");
-  Serial.println(readAO);
+  Serial.println(analogVal);
   Serial.print("Digital:  ");  
-  Serial.println(readDO);
+  Serial.println(digitalVal);
 
-  delay(1000);
+  delay(5000);
 }
